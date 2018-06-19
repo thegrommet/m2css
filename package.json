@@ -1,0 +1,18 @@
+{
+  "name": "@thegrommet/m2css",
+  "version": "1.0.0",
+  "description": "A packaged variant of our CSS",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thegrommet/m2css.git"
+  },
+  "keywords": [
+    "style"
+  ],
+  "author": "Aria Stewart <aria@thegrommet.com>",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/thegrommet/m2css/issues"
+  },
+  "homepage": "https://github.com/thegrommet/m2css#readme"
+}
